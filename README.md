@@ -17,6 +17,8 @@ You need to have MySQLdb installed to work with MySQL
 
 
 TO-DO:
-	-- Add an empty DB
-	-- Switch DB to Postgres
+	-- Add an empty DB DONE
+	-- Add setup scripts
 	-- Update to work with Google Admin SDK
+	-- Switch DB to Postgres
+
